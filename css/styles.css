@@ -1,0 +1,49 @@
+/* Check out my super haxxor css */
+body {
+  text-align: center;
+}
+h1 {
+  font-family: "HelveticaNeue-Light",Helvetica,Arial,FreeSans,sans-serif;
+  text-align: center;
+  font-size: 4em;
+  font-weight: 400;
+  margin: 0;
+  margin-top: 50px;
+}
+
+h2 {
+  font-family: "HelveticaNeue-Light",Helvetica,Arial,FreeSans,sans-serif;
+  text-align: center;
+  font-size: 2em;
+  font-weight: 400;
+  margin: 10px;
+  margin-bottom: 20px;
+}
+
+p {
+  font-family: Helvetica,Arial,FreeSans,sans-serif;
+  font-size: 14px;
+  width: 500px;
+  text-align: center;
+  margin: 0 auto;
+  color: #666;
+  margin-bottom: 10px;
+}
+em, p em {
+  font-style: normal;
+  font-family: Helvetica,Arial,FreeSans,sans-serif;
+  font-size: 14px;
+  color: #666;
+}
+
+p a {
+  color: #333; 
+  text-decoration: none;
+}
+
+p a:hover {
+  background-color: #333;
+  color: #fff; 
+}
+
+/* ok, I know it's not super haxxor, but I wanted the page to be small, so not much area for showing off */
