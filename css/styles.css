@@ -36,7 +36,7 @@ em, p em {
   color: #666;
 }
 
-p a {
+p a, p a em {
   color: #333; 
   text-decoration: none;
 }
